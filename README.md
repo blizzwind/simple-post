@@ -2,7 +2,7 @@
 A simple anonymous posting website in terminal style.
 
 ### setup
-index.html -> change -> <title>demo</title><br>
+index.php -> change -> "<title>demo</title>"<br>
 asset/icon.svg -> change -> your own favicon in icon.svg format<br>
 src/config.php -> change -> $SERVERNAME, $USERNAME, $PASSWORD, $DBNAME<br>
 
